@@ -47,6 +47,6 @@ Device configurations are in the `configs` folder.
 - Why `ip routing` is required on a Layer 3 switch
 - Troubleshooting step by step using show commands
 
-## Author / Network Engineer 
+## Network Engineer 
 Muhammad Luqman 
 LinkedIn: linkedin.com/in/muhammad-luqman1
