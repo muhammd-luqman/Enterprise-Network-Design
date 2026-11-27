@@ -48,5 +48,5 @@ Device configurations are in the `configs` folder.
 - Troubleshooting step by step using show commands
 
 ## Network Engineer 
-Muhammad Luqman 
+Name: Muhammad Luqman,  
 LinkedIn: linkedin.com/in/muhammad-luqman1
